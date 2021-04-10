@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"gogo3/dict"
+
+	"github.com/nanangqq/gogo3/dict"
 )
 
 func main() {
